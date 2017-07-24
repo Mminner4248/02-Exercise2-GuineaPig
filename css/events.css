@@ -1,0 +1,19 @@
+.bluePig {
+    color: blue;
+}
+
+.makeLarge {
+ font-size: 4em;
+}
+
+.borderPig {
+    border: 5px solid black;
+}
+
+.borderRound {
+    border-radius: 20px;
+}
+
+button {
+    display: block;
+}
